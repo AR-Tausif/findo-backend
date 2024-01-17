@@ -7,6 +7,7 @@ const PORT = 4000;
 async function serverBootstrap() {
   try {
     // await mongoose.connect();
+    await mongoose.connect(config.database_url as string);
     server = app.listen(config.port, () => {
       console.log(`Example app listening on port ${PORT}`);
     });
