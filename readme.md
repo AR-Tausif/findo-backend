@@ -16,6 +16,11 @@ If you want to clone this repository and try to setup this project locally, ensu
 
 [![live link](https://img.shields.io/badge/Live_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://documenter.getpostman.com/view/28459031/2s9YsRb9Aw)
 
+
+### Notion project
+[![live link](https://img.shields.io/badge/Live_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.notion.so/FINDO-2cf7c7dcf8f642e4817ca355ad354b85)
+### Lucid diagram project
+[![live link](https://img.shields.io/badge/Live_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lucid.app/lucidchart/392839fc-c598-40b7-8fd6-db26874f7373/edit?beaconFlowId=3DA8685D6A09CA60&invitationId=inv_eafe5580-6e7b-4764-a559-224eba9318e4&page=0_0#)
 ## Installation
 
 1. **Clone the repository:**
